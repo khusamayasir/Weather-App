@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(300deg, #b1c5e9, #bdf5f5);
+    background: linear-gradient(300deg, #bdf5f5);
     font-family: "Poppins", sans-serif;
     display: flex;
     flex-direction: column;
@@ -15,6 +15,7 @@ body {
     min-height: 100vh;
 }
 
+GG
 input {
     background-color: #fff;
     border: none;
