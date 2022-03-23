@@ -5,12 +5,12 @@ You can also check here: https://weather-app-khusamayasir.netlify.app/
 
 #
 Desktop-View:
-![image](https://user-images.githubusercontent.com/66178232/159740858-e1f593ec-9428-4a6e-bbaf-d67f8a8db194.png)
+![image](https://user-images.githubusercontent.com/66178232/159741188-74236e8f-db5a-4f86-b6ae-9ec055f0ec9a.png)
 
 #
 Mobile-View:
 
-![image](https://user-images.githubusercontent.com/66178232/159740216-33549e19-cadf-4e6c-9b6e-7627c013a19f.png)
+![image](https://user-images.githubusercontent.com/66178232/159745790-5eeb9e8d-57f1-43b8-8fe2-07f15d9e7853.png)
 
 IPad-Mini-View:
 
