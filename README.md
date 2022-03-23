@@ -1,2 +1,2 @@
 # Weather-App
-In progress
+A simple weather app through JavaScript.
